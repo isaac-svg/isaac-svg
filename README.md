@@ -31,7 +31,6 @@ If you're interested in discussing algorithms, data structures, web app developm
 - ![PWA](https://img.shields.io/badge/-PWA-FF6F00?logo=pwa&logoColor=white&style=for-the-badge)
 - ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge)
 - ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
-- ![Redux Thunk](https://img.shields.io/badge/-Redux%20Thunk-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 
 ## Let's Connect! 🤝
 
