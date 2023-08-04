@@ -7,9 +7,10 @@ Beyond coding, I am fascinated by the realm of computer networking, understandin
 If you're interested in discussing algorithms, data structures, web app development, software engineering, computer networking, or any other exciting topic related to the vast world of technology, feel free to connect with me! Let's embark on an exciting journey of growth and innovation in the realm of software development. 🌟
 
 ## Programming Languages
+In my pursuit of knowledge and skills, I've worked with various programming languages and frameworks. Here are some of my favorites:
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+- `![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)`
+- `![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)`
 - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 - ![BASH](https://img.shields.io/badge/-BASH-black?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -17,6 +18,7 @@ If you're interested in discussing algorithms, data structures, web app developm
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ## Frameworks & Libraries
+As I explore and delve deeper into my interests, I also work with frameworks that enable me to build powerful and scalable applications:
 
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 - ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge)
