@@ -22,7 +22,7 @@ As I explore and delve deeper into my interests, I also work with frameworks tha
 
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
   ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-  - ![PWA](https://img.shields.io/badge/-PWA-FF6F00?logo=pwa&logoColor=white&style=for-the-badge)
+- ![PWA](https://img.shields.io/badge/-PWA-FF6F00?logo=pwa&logoColor=white&style=for-the-badge)
 - ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=material-ui&logoColor=white&style=for-the-badge)
 - ![Nivo Charts](https://img.shields.io/badge/-Nivo%20Charts-00CC99?logo=nivo&logoColor=white&style=for-the-badge)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
