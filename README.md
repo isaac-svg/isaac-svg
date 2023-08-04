@@ -21,7 +21,8 @@ In my pursuit of knowledge and skills, I've worked with various programming lang
 As I explore and delve deeper into my interests, I also work with frameworks that enable me to build powerful and scalable applications:
 
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+  ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+  - ![PWA](https://img.shields.io/badge/-PWA-FF6F00?logo=pwa&logoColor=white&style=for-the-badge)
 - ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=material-ui&logoColor=white&style=for-the-badge)
 - ![Nivo Charts](https://img.shields.io/badge/-Nivo%20Charts-00CC99?logo=nivo&logoColor=white&style=for-the-badge)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
@@ -30,7 +31,6 @@ As I explore and delve deeper into my interests, I also work with frameworks tha
 - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-- ![PWA](https://img.shields.io/badge/-PWA-FF6F00?logo=pwa&logoColor=white&style=for-the-badge)
 - ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge)
 - ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
 
