@@ -12,7 +12,7 @@ In my pursuit of knowledge and skills, I've worked with various programming lang
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 - ![BASH](https://img.shields.io/badge/-BASH-black?style=flat-square&logo=gnu-bash&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-steelblue?style=flat-square&logo=mysql&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
