@@ -10,7 +10,7 @@ If you're interested in discussing algorithms, data structures, web app developm
 In my pursuit of knowledge and skills, I've worked with various programming languages and frameworks. Here are some of my favorites:
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 - ![BASH](https://img.shields.io/badge/-BASH-black?style=flat-square&logo=gnu-bash&logoColor=white)
