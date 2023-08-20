@@ -23,6 +23,7 @@ As I explore and delve deeper into my interests, I also work with frameworks tha
  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
  ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![PWA](https://img.shields.io/badge/-PWA-FF6F00?logo=pwa&logoColor=white&style=for-the-badge)
+![FireBase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=material-ui&logoColor=white&style=for-the-badge)
 ![Nivo Charts](https://img.shields.io/badge/-Nivo%20Charts-00CC99?logo=nivo&logoColor=white&style=for-the-badge)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
@@ -38,6 +39,7 @@ As I explore and delve deeper into my interests, I also work with frameworks tha
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![FireStore](https://img.shields.io/badge/-Firestore-FFA611?logo=firebase&logoColor=white&style=for-the-badge)
 ## Let's Connect! 🤝
 
 Feel free to explore my projects and don't hesitate to reach out to me for any collaboration or questions. Happy coding! 😊
