@@ -40,6 +40,9 @@ As I explore and delve deeper into my interests, I also work with frameworks tha
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![FireStore](https://img.shields.io/badge/-Firestore-FFA611?logo=firebase&logoColor=white&style=for-the-badge)
-## Let's Connect! 🤝
 
+## Wakatime 
+[![wakatime](https://wakatime.com/badge/user/a47f74ab-8107-4cb9-ac36-d465d697b052.svg)](https://wakatime.com/@a47f74ab-8107-4cb9-ac36-d465d697b052)
+
+## Let's Connect! 🤝
 Feel free to explore my projects and don't hesitate to reach out to me for any collaboration or questions. Happy coding! 😊
